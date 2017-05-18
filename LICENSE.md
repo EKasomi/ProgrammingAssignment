@@ -1,4 +1,4 @@
-# Emmanuel Kasom| Bsc In Telecommunications Engineering| 16/U/5536/PSA
+# Emmanuel Kasomi| Bsc In Telecommunications Engineering| 16/U/5536/PSA
 
 def dob(x,y,z):
      a=26
